@@ -1,2 +1,2 @@
-# test
-test hello world
+# Test
+My first git repository here! 
